@@ -1,0 +1,14 @@
+.list-container {
+  width: 20%;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.image {
+  height: 145px;
+  width: 100%;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+.heading-name {
+  font-family: 'Roboto';
+}
